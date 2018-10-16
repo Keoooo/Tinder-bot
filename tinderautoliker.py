@@ -25,7 +25,7 @@ pyautogui.click(button='left')
 time.sleep(2)
 
 for x in range(0, 200):
-    pyautogui.press('left')
+    pyautogui.press('right')
     if x == 100:
         print("Exit Program")
         break
