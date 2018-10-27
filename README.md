@@ -1,5 +1,5 @@
 # TinderAutoLiker
-A python script that swipes for you automatically
+A python script that swipes for you automatically on tinders web verison 
 
 # Built With 
 * [PYAUTOGUI](https://pyautogui.readthedocs.io/en/latest/) - Automation
